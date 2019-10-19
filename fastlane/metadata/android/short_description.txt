@@ -1,0 +1,1 @@
+Simple manual beats per minute counter
