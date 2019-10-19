@@ -9,9 +9,8 @@
 
 
 ## Screenshots
-
-![](https://github.com/Matteljay/bpmcounter-android/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png)
-![](https://github.com/Matteljay/bpmcounter-android/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png)
+![](https://github.com/Matteljay/bpmcounter-android/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg)
+![](https://github.com/Matteljay/bpmcounter-android/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg)
 
 
 ## About
