@@ -19,8 +19,8 @@ BPM-Counter is a very simple app for manually tapping any type of beat count.
 From your heart rate to difficult to batch analyse music, rotations of a machine (RPM) you can record anything.
 To increase accuracy, set the tap-count to a high value and make sure you do not skip any beats.
 The tap-count is a persistent setting that you can change on the top-right corner of the app.
-The minimum input value for the number of taps is 2 of course. Only then can a time-delta be calculated.
-If you quick-tap the console text box the app will be reset and ready for the next measurement
+The minimum input value for the number of taps is 2, only then can a time-delta be calculated.
+If you quick-tap the console text box the app will be reset and ready for the next measurement.
 
 
 ## App Features
@@ -28,7 +28,7 @@ If you quick-tap the console text box the app will be reset and ready for the ne
 - Simple & easy to use, clear design
 - Record anything repetitive with an accuracy of your choosing
 - Tap count setting stored persistently across restarts
-- Text console for measurement history
+- Text console for showing the measurement history
 - Run-time device orientations allowed
 
 
